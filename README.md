@@ -47,7 +47,7 @@ food101classifier/
 
 1. **Clone the repository**:
    ```bash
-   git clone <repository-url>
+   git clone (https://github.com/samuel-fatman/food101classifier-.git)
    cd food101classifier
    ```
 
